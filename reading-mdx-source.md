@@ -1,1 +1,1 @@
-# On reading the source code if mdx and learnjng about abstract syntax trees
+# On reading the source code of mdx and learning about abstract syntax trees
