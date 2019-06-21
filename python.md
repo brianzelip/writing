@@ -14,6 +14,20 @@ The kind of things I know I need to read about via learning js:
 - classes
 - math
 
+## Python administrative structure
+
+- [Python Software Foundation](https://www.python.org/psf-landing/)
+- [Python Packaging Authority](https://www.pypa.io)
+
+## Main Python resources
+
+- [Python](https://www.python.org/)
+- [Python docs](https://docs.python.org/3/)
+  - [CLI man page](https://docs.python.org/3.7/using/cmdline.html)
+- [Python Module Index](https://docs.python.org/3.7/py-modindex.html)
+- [PyPi - Python Package Index](https://pypi.org/)
+- [pip](https://pip.pypa.io/en/stable/)
+
 ## Bibliography
 
 - Python.org's _Beginner's Guide to Python_, [HowToEditPythonCode](https://wiki.python.org/moin/HowToEditPythonCode)
